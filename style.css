@@ -1,0 +1,31 @@
+h1 {
+    color:aqua;
+    font-size: 48px;
+    background-color: darkslategrey;
+    padding: 30px
+
+    
+}
+
+.title {
+    text-align: center;
+}
+
+.square {
+    background-color: dodgerblue;
+    height: 100px;
+    width: 100px;px;
+    color:white;
+    padding: 10px;
+
+}
+
+.fixed {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+
+main {
+    background-color:yellowgreen
+}
